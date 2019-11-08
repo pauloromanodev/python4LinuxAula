@@ -1,0 +1,22 @@
+10 contratos = R$ 250,00
+----------------------
+win = 39.01
+loss 2 pontos = -110.60
+#loss 1 ponto = -60.60
+op cancelada = -5.30
+
+
+5 contratos = R$ 125,00
+----------------------
+win = 19.50
+loss 2 pontos = -55.30
+#loss 1 ponto = -30.30
+op cancelada = -5.30
+
+
+2 contratos = R$ 50.00
+-----------------------
+win = 7.80
+loss 2 pontos = -22.12
+#loss 1 ponto = -12.12
+op cancelada = -5.30
